@@ -19,3 +19,6 @@ Dataset below contains images taken using a smartphone used in the following pap
 All pictures contain malaria parasites. The positions of the parasites have been documented. Good if we want to use a U-net model.
 
 ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/Thick_Smears_150
+
+### Thin Smear 
+https://data.broadinstitute.org/bbbc/BBBC041/
